@@ -4,7 +4,7 @@ This is my Terraform learning and experimentation repo! This repository contains
 
 Each folder in this repo is a self-contained tutorial or mini-project. It includes Terraform files (`*.tf`), documentation, and sometimes diagrams or outputs.
 
-Completed Tutorials
+## Completed Tutorials
 
 - Create an EC2 instance
 
@@ -15,18 +15,18 @@ Completed Tutorials
 - Basic knowledge of terminal and Git
 
 
-# Clone the repo
+## Clone the repo
 git clone https://github.com/your-username/terraform-tutorials.git
 cd terraform-tutorials/ec2-instance
 
-# Initialize Terraform
+## Initialize Terraform
 terraform init
 
-# Preview plan
+## Preview plan
 terraform plan
 
-# Apply and create resources
+## Apply and create resources
 terraform apply
 
-# Destroy resources when done
+## Destroy resources when done
 terraform destroy
