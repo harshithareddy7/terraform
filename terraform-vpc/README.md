@@ -14,7 +14,7 @@ This Terraform configuration creates a custom VPC on AWS with:
 
 - `main.tf` – Terraform resources for VPC, subnets, IGW, and routing
 - `variables.tf` – Input variable definitions
-- `terraform.tfvars` – (Optional) Values for input variables
+- `outputs.tf` - Output ID values
 - `README.md` – Project documentation
 
 ---
