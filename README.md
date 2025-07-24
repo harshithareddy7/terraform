@@ -7,6 +7,8 @@ Each folder in this repo is a self-contained tutorial or mini-project. It includ
 ## Completed Tutorials
 
 - Create an EC2 instance
+- Create VPC
+- A Simple Lambda Function
 
 ## 🛠 Prerequisites
 
