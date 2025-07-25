@@ -10,15 +10,18 @@ This Terraform configuration sets up:
 
 ## How to Deploy
 
-Run:
+Run the command:
 
 ```bash
 terraform apply
+```
+
 
 You will be prompted to enter:
 
-- `accountId` – your AWS Account ID  
-- `myregion` – AWS region (e.g., `us-east-2`)
+accountId – your AWS Account ID
+
+myregion – AWS region (e.g., us-east-2)
 
 ## How to Trigger the Lambda
 
