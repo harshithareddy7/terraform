@@ -8,7 +8,7 @@ Each folder in this repo is a self-contained tutorial or mini-project. It includ
 
 - Create an EC2 instance
 - Create VPC
-- A Simple Lambda Function
+- A Simple Lambda Function using API Gateway as a trigger
 
 ## 🛠 Prerequisites
 
